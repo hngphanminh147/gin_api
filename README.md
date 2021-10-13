@@ -1,6 +1,6 @@
 ## Gin_API
 
-Very simple CRUD API
+Very simple CRUD API \
 Used modules:
 
     * gin
